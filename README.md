@@ -107,11 +107,11 @@
 
 <!-- First row: 3 graphs with same size -->
 <div align="left" style="display:flex; gap:10px;">
-  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="300" height="220" style="object-fit:cover;" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="190" height="240" style="object-fit:cover;" alt="streak graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="300" height="220" style="object-fit:cover;" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="190" height="220" style="object-fit:cover;" alt="GitHub stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="300" height="150" style="object-fit:cover;" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="190" height="150" style="object-fit:cover;" alt="top languages" />
 </div>
 
 <!-- Second row: Trophy graph -->
@@ -126,7 +126,7 @@
 <div align="left">
   
   <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="30" style="width:100px;" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="20" style="width:90px;" alt="Visitor Count" />
   
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/nouribram?label=Followers&style=for-the-badge" height="70" style="width:100px;" alt="Followers Badge" />
