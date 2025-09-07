@@ -115,14 +115,15 @@
 
 
 ###
-<div align="center">
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="40" alt="Visitor Count" />
-
+<div align="right">
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/nouribram?label=Followers&style=for-the-badge" height="40" alt="Followers Badge" />
 
   <!-- Social Badge Example -->
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="40" alt="LinkedIn Badge" />
+
+   <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="40" alt="Visitor Count" />
+
 </div>
 
