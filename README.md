@@ -105,17 +105,19 @@
 
 ###
 
+<!-- First row: 3 graphs with same size -->
 <div align="left" style="display:flex; gap:10px;">
-  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="180" height="220" style="object-fit:cover;" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="250" height="150" style="object-fit:cover;" alt="streak graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="180" height="220" style="object-fit:cover;" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="250" height="150" style="object-fit:cover;" alt="GitHub stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="180" height="150" style="object-fit:cover;" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="250" height="150" style="object-fit:cover;" alt="top languages" />
 </div>
 
 <!-- Second row: Trophy graph -->
 <div align="left" style="margin-top:10px; max-width:250px;">
-  <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" style="width:100%; height:auto;" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
+       style="width:100%; height:auto;" alt="trophy graph" />
 </div>
 
 
