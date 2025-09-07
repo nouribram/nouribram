@@ -129,14 +129,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/nouribram/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nouribram&repo=project1&theme=radical" width="200"/></a>
-  <a href="https://github.com/nouribram/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nouribram&repo=project2&theme=radical" width="200"/></a>
-  <a href="https://github.com/nouribram/project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nouribram&repo=project3&theme=radical" width="200"/></a>
-</div>
-
-###
-<div align="center">
-  ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" height="50"/>
-</div>
