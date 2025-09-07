@@ -106,9 +106,9 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="250" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="250" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="250" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="250" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="250" height="150" alt="top languages" />
   <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 </div>
@@ -118,13 +118,12 @@
 ###
 <div align="left">
   <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/nouribram?label=Followers&style=for-the-badge" height="40" alt="Followers Badge" />
+  <img src="https://img.shields.io/github/followers/nouribram?label=Followers&style=for-the-badge" height="40" style="width:150px;" alt="Followers Badge" />
 
-  <!-- Social Badge Example -->
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="40" alt="LinkedIn Badge" />
+  <!-- LinkedIn Badge -->
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="40" style="width:150px;" alt="LinkedIn Badge" />
 
-   <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="40" alt="Visitor Count" />
-
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="40" style="width:150px;" alt="Visitor Count" />
 </div>
 
