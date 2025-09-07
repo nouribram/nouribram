@@ -112,10 +112,14 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph.svg">
-</picture>
+![nouribram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical)
 
 ###
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram)
+
+###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical)
+###
+![Nouribram's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nouribram&theme=react-dark)
+
