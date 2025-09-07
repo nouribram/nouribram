@@ -86,21 +86,22 @@
 
 ###
 
-
-<p align="center">
-  <!-- Social Badges -->
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-
-  <!-- Visitor Badge -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="25" />
-
-  <!-- GitHub Stats (adjust width to fit) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical" width="250" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical" width="200" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nouribram&theme=react-dark" width="250" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+</div>
 
 ###
 
@@ -111,3 +112,31 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="200"/>
+  <img src="https://streak-stats.demolab.com?user=nouribram&mode=daily&theme=dracula" width="250"/>
+</div>
+
+
+###
+
+<div align="center">
+  <a href="https://github.com/nouribram/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nouribram&repo=project1&theme=radical" width="200"/></a>
+  <a href="https://github.com/nouribram/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nouribram&repo=project2&theme=radical" width="200"/></a>
+  <a href="https://github.com/nouribram/project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nouribram&repo=project3&theme=radical" width="200"/></a>
+</div>
+
+###
+<div align="center">
+  ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" height="50"/>
+</div>
