@@ -105,6 +105,7 @@
 
 ###
 
+<!-- First row: 3 graphs with same size -->
 <div align="left" style="display:flex; gap:10px;">
   <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="250" height="150" style="object-fit:cover;" alt="streak graph" />
   
@@ -114,10 +115,9 @@
 </div>
 
 <!-- Second row: Trophy graph -->
-<div align="left" style="margin-top:10px;">
-  <div style="width:250px; height:150px; overflow:hidden;">
-    <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" width="100%" height="100%" style="object-fit:cover;" alt="trophy graph" />
-  </div>
+<div align="left" style="margin-top:10px; width:250px; height:150px; overflow:hidden;">
+  <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
+       style="width:100%; max-height:100%; object-fit:contain;" alt="trophy graph" />
 </div>
 
 
