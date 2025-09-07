@@ -111,15 +111,11 @@
 </div>
 
 ###
-
-![nouribram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical)
-
-###
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram)
-
-###
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical)
-###
-![Nouribram's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nouribram&theme=react-dark)
+<!-- GitHub Stats, Top Languages, Visitor Badge, Contribution Graph in one line -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical" alt="Top Languages" width="200"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" alt="Visitor Count" width="150"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nouribram&theme=react-dark" alt="Contribution Graph" width="300"/>
+</p>
 
