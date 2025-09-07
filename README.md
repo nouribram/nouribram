@@ -110,22 +110,24 @@
   <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nouribram/nouribram/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="250"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="200"/>
-  <img src="https://streak-stats.demolab.com?user=nouribram&mode=daily&theme=dracula" width="250"/>
 </div>
 
 
 ###
+<div align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="40" alt="Visitor Count" />
+
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/nouribram?label=Followers&style=for-the-badge" height="40" alt="Followers Badge" />
+
+  <!-- Social Badge Example -->
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="40" alt="LinkedIn Badge" />
+</div>
 
