@@ -115,7 +115,7 @@
 
 
 ###
-<div align="right">
+<div align="left">
   <!-- GitHub Followers -->
   <img src="https://img.shields.io/github/followers/nouribram?label=Followers&style=for-the-badge" height="40" alt="Followers Badge" />
 
