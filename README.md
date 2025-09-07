@@ -105,18 +105,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="250"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="200"/>
 </div>
+
 
 
 ###
