@@ -122,8 +122,8 @@
 <!-- First row: 3 graphs with same size -->
 <div align="left" style="display:flex; gap:10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouribram&layout=compact&theme=radical&hide_border=true" width="270" height="150" style="object-fit:cover;" alt="top languages" />
-  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="270" height="330" style="object-fit:cover;" alt="streak graph" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="260" height="330" style="object-fit:cover;" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=nouribram&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="270" height="300" style="object-fit:cover;" alt="streak graph" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=nouribram&show_icons=true&theme=radical&hide_border=true" width="260" height="300" style="object-fit:cover;" alt="GitHub stats" />
   
 </div>
 
