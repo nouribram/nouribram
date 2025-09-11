@@ -128,5 +128,19 @@
 </div>
 
 
+###
+
+<div align="left">
+  
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nouribram.nouribram" height="20" style="width:90px;" alt="Visitor Count" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/nouribram?label=Followers&style=for-the-badge" height="70" style="width:100px;" alt="Followers Badge" />
+
+  <!-- LinkedIn Badge -->
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="80" style="width:100px;" alt="LinkedIn Badge" />
+
+</div>
 
 
