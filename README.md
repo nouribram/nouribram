@@ -1,7 +1,6 @@
 <h1 align="center">Coding My Way Through Life 💻</h1>
 
 ###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
   <img width="12" />
