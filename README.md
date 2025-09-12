@@ -117,14 +117,11 @@
 
 ###
 
-
-
 <!-- Second row: Trophy graph -->
 <div align="left" style="margin-top:10px; max-width:250px;">
   <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
        style="width:100%; height:auto;" alt="trophy graph" />
 </div>
-
 
 ###
 
