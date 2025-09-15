@@ -95,7 +95,6 @@
 </div>
 
 ###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -116,7 +115,6 @@
 </div>
 
 ###
-
 <!-- Second row: Trophy graph -->
 <div align="left" style="margin-top:10px; max-width:250px;">
   <img src="https://github-profile-trophy.vercel.app?username=nouribram&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
