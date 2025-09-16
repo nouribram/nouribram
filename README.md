@@ -113,7 +113,6 @@
   <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
 </div>
-
 ###
 <!-- Second row: Trophy graph -->
 <div align="left" style="margin-top:10px; max-width:250px;">
