@@ -1,4 +1,4 @@
-<h1 align="center">Coding My Way Through Life 💻</h1>
+<h1 align="center"> 🎨 ➡️ 💻 ➡️ ⚡ ➡️ 👩🏻‍✈️ ➡️ ✈️ ➡️ 👮🏻‍♀️⚓ ➡️ 🚢 ➡️ 🩺 ➡️</h1>
 
 ###
 
