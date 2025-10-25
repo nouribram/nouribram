@@ -1,4 +1,4 @@
-<h1 align="center"> 🎨 ➡️ 💻 ➡️ ⚡ ➡️ 👩🏻‍✈️ ➡️ ✈️ ➡️ 👮🏻‍♀️⚓ ➡️ 🚢 ➡️ 🩺</h1>
+<h1 align="center"> 🎨 ➡️ 💻 ➡️ ⚡ ➡️ <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f468-200d-2708-fe0f.png" width="24" /> ➡️ ✈️ ➡️ 👮🏻‍♀️⚓ ➡️ 🚢 ➡️ 🩺</h1>
 
 ###
 
